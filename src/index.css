@@ -3,3 +3,32 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+#pusher {
+  margin-top: 8em;
+}
+
+#songlist {
+width: 50%;
+}
+
+
+#header {
+color: #387fc4;
+}
+
+#h4 {
+  margin-bottom: 10px;
+}
+
+#header {
+  font-size: 60px;
+}
+
+#songlink {
+color: #387fc4 !important;
+}
+
+#playall {
+color: #387fc4 !important;
+}
